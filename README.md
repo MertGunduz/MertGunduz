@@ -11,7 +11,7 @@
 
 ### Certificates:
 
-☉ CCNA 200-301
+☉ CCNA 200-301 <br>
 ☉ CS50x (Very Soon!)
 
 ### Languages and Tools:
