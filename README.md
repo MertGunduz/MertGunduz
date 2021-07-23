@@ -7,7 +7,7 @@
 ☉ I'm currently studying hard to take CCNP Security VPN <br>
 ☉ I’m looking to collaborate with other desktop programmers <br>
 ☉ Hobbies: Playing classical guitar <br>
-☉ 2021 Goals: Being a happy person <br>
+☉ 2021 Goals: Doing something useful <br>
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png"/>
