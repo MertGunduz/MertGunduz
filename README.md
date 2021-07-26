@@ -7,7 +7,7 @@
 ☉ I'm currently studying hard to take CCNP Security VPN <br>
 ☉ I’m looking to collaborate with other desktop programmers <br>
 ☉ Hobbies: Playing classical guitar <br>
-☉ 2021 Goals: Doing something useful <br>
+☉ 2021 Goals: Leaving Yakacık <br>
 
 ### Certificates:
 
