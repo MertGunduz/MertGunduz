@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/RunnerMert?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/RunnerMert)
 
-## I'm a Developer, and Classical Guitarist!
+## I'm a Developer and Classical Guitarist!
 
 ☉ I'm currently studying hard to take CCNP Security VPN <br>
 ☉ I’m looking to collaborate with other desktop programmers <br>
