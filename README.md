@@ -12,7 +12,7 @@
 ### Certificates:
 
 ☉ CCNA 200-301 <br>
-☉ CS50x (Very Soon!)
+☉ Harvard University CS50 (Very Soon!)
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png"/>
