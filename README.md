@@ -61,11 +61,14 @@
 
   ![C#](https://user-images.githubusercontent.com/65850970/129522160-3081fbdc-3e04-4434-9d3b-403bcf4232bc.png)
   ![C](https://user-images.githubusercontent.com/65850970/129522162-76df10a6-4838-4acf-867c-a3a156d85abb.png)
-  ![Python](https://user-images.githubusercontent.com/65850970/129522165-0edc7bb2-9620-467a-bc9b-75e8444a288e.png)
+  ![Python](https://user-images.githubusercontent.com/65850970/129522165-0edc7bb2-9620-467a-bc9b-75e8444a288e.png) <br>
   ![VisualStudio](https://user-images.githubusercontent.com/65850970/129522167-5edf1085-3018-4c3f-8f0a-a930e2bf03a9.png)
-  ![VisualStudioCode](https://user-images.githubusercontent.com/65850970/129522168-8e66544d-9dd1-47d7-bb7d-365be2c955ee.png)
+  ![VisualStudioCode](https://user-images.githubusercontent.com/65850970/129522168-8e66544d-9dd1-47d7-bb7d-365be2c955ee.png) <br>
+  ![AccessDatabase](https://user-images.githubusercontent.com/65850970/129523449-b4cdf3c6-80f3-4de6-bdd0-85e4b61290ea.png)
+  ![MSSQL](https://user-images.githubusercontent.com/65850970/129523451-778da529-be55-44c4-bfab-9ef846753275.png)
+  ![MySQL](https://user-images.githubusercontent.com/65850970/129523452-5dd3e5aa-e246-4fcb-ae1e-6337bb6764d5.png)
   
-</div>
+</div> <br>
   
 <div align="center">
 
