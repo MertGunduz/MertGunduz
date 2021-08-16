@@ -1,37 +1,74 @@
-### Hi there, I'm Mert Gunduz.
+<div align="center">
+  
+  ![Welcome](https://user-images.githubusercontent.com/65850970/129520346-9475a7fe-059e-40a2-9e70-9ef902d4e9e2.gif)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/RunnerMert?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/RunnerMert)
+</div> <br>
 
-## I'm a Developer and Classical Guitarist!
+<div align="center">
 
-☉ I'm currently studying hard to take CCNP Security VPN <br>
-☉ I’m looking to collaborate with other desktop programmers <br>
-☉ Hobbies: Playing classical guitar <br>
-☉ 2021 Goals: Leaving Yakacık <br>
+  ![Seperator](https://user-images.githubusercontent.com/65850970/129520729-45c3f001-131e-42bb-8ba8-cec033712505.gif)
+  
+</div> <br>
 
-### Certificates:
+<div align="center">
 
-☉ CCNA 200-301 <br>
-☉ Harvard University CS50 (Very Soon!)
+  ![MyProjects](https://user-images.githubusercontent.com/65850970/129520574-d9d85f10-65fc-4e87-a4b8-0181c2566e88.gif)
 
-### Languages and Tools:
-<img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="MSSQL" width="26px" src="https://www.mshowto.org/images/articles/2019/08/3204_3204_mssql-1-en-us-en-US.png" />
-<img align="left" alt="Access Database" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Microsoft_Office_Access_%282019-present%29.svg/1049px-Microsoft_Office_Access_%282019-present%29.svg.png" />
-<img align="left" alt="MySQL" width="26px" src="http://www.onurbabur.com/wp-content/uploads/2020/09/MySQL-Logo.wine_.png" />
-<img align="left" alt="C#" width="26px" src="https://www.cnjobs.dk/drupal/sites/default/files/2019-01/csharp-01.png" />
-<img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"/>
-<img align="left" alt=".NET" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/456px-.NET_Logo.svg.png"/>
-<img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+</div> <br>
 
-<br>
-<hr>
+<div align="center">
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MertGunduz&repo=Alchemist&theme=jolly)](https://github.com/MertGunduz/Alchemist)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MertGunduz&repo=Alchemist&theme=jolly)](https://github.com/MertGunduz/Alchemist)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MertGunduz&repo=Alchemist&theme=jolly)](https://github.com/MertGunduz/Alchemist)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MertGunduz&repo=Alchemist&theme=jolly)](https://github.com/MertGunduz/Alchemist)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Alan_Turing_Aged_16.jpg/220px-Alan_Turing_Aged_16.jpg" alt="Alan Turing">
-<blockquote>“Sometimes it is the people no one can imagine anything of who do the things no one can imagine.</blockquote>
-<p>Alan Turing</p>
+</div> <br>
+
+<div align="center">
+
+  ![Seperator](https://user-images.githubusercontent.com/65850970/129520729-45c3f001-131e-42bb-8ba8-cec033712505.gif)
+
+</div> <br> 
+  
+<div align="center">
+
+  ![Certificates](https://user-images.githubusercontent.com/65850970/129520925-04f721b7-c6cb-4b6b-b188-d52e6cbd3ade.gif)
+
+</div> <br>
+
+<div align="center">
+  
+  ![CCNA](https://user-images.githubusercontent.com/65850970/129521662-9e5b613f-498f-4e80-96b5-5b381c53d511.png)
+  ![CS50](https://user-images.githubusercontent.com/65850970/129521663-f5fb8eb4-9271-4771-99df-341b729b8043.png)
+
+</div> <br>
+  
+<div align="center">
+
+  ![Seperator](https://user-images.githubusercontent.com/65850970/129520729-45c3f001-131e-42bb-8ba8-cec033712505.gif)
+
+</div> <br>
+  
+  
+<div align="center">
+
+  ![LanguagesAndTools](https://user-images.githubusercontent.com/65850970/129522288-b54062a4-7ad3-4406-846c-d436d05ff247.gif)
+
+</div> <br>
+  
+<div align="center">
+
+  ![C#](https://user-images.githubusercontent.com/65850970/129522160-3081fbdc-3e04-4434-9d3b-403bcf4232bc.png)
+  ![C](https://user-images.githubusercontent.com/65850970/129522162-76df10a6-4838-4acf-867c-a3a156d85abb.png)
+  ![Python](https://user-images.githubusercontent.com/65850970/129522165-0edc7bb2-9620-467a-bc9b-75e8444a288e.png)
+  ![VisualStudio](https://user-images.githubusercontent.com/65850970/129522167-5edf1085-3018-4c3f-8f0a-a930e2bf03a9.png)
+  ![VisualStudioCode](https://user-images.githubusercontent.com/65850970/129522168-8e66544d-9dd1-47d7-bb7d-365be2c955ee.png)
+  
+</div>
+  
+<div align="center">
+
+  ![Seperator](https://user-images.githubusercontent.com/65850970/129520729-45c3f001-131e-42bb-8ba8-cec033712505.gif)
+
+</div>
