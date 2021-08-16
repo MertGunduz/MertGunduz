@@ -19,9 +19,9 @@
 <div align="center">
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MertGunduz&repo=Alchemist&theme=jolly)](https://github.com/MertGunduz/Alchemist)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MertGunduz&repo=Alchemist&theme=jolly)](https://github.com/MertGunduz/Alchemist)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MertGunduz&repo=Alchemist&theme=jolly)](https://github.com/MertGunduz/Alchemist)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MertGunduz&repo=Alchemist&theme=jolly)](https://github.com/MertGunduz/Alchemist)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MertGunduz&repo=VoterX&theme=jolly)](https://github.com/MertGunduz/VoterX)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MertGunduz&repo=Cops_And_Robbers&theme=jolly)](https://github.com/MertGunduz/Cops_And_Robbers)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MertGunduz&repo=IP_Analyzer&theme=jolly)](https://github.com/MertGunduz/IP_Analyzer)
 
 </div> <br>
 
