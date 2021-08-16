@@ -39,8 +39,8 @@
 
 <div align="center">
   
-  ![CCNA](https://user-images.githubusercontent.com/65850970/129521662-9e5b613f-498f-4e80-96b5-5b381c53d511.png)
-  ![CS50](https://user-images.githubusercontent.com/65850970/129521663-f5fb8eb4-9271-4771-99df-341b729b8043.png)
+  <img src="https://shields.io/badge/Certificate-CCNA-pink?logo=cisco&style=plastic">  
+  <img src="https://shields.io/badge/Certificate-CS50-pink?logo=googlenearby&style=plastic">  
 
 </div> <br>
   
@@ -59,14 +59,16 @@
   
 <div align="center">
 
-  ![C#](https://user-images.githubusercontent.com/65850970/129522160-3081fbdc-3e04-4434-9d3b-403bcf4232bc.png)
-  ![C](https://user-images.githubusercontent.com/65850970/129522162-76df10a6-4838-4acf-867c-a3a156d85abb.png)
-  ![Python](https://user-images.githubusercontent.com/65850970/129522165-0edc7bb2-9620-467a-bc9b-75e8444a288e.png) <br>
-  ![VisualStudio](https://user-images.githubusercontent.com/65850970/129522167-5edf1085-3018-4c3f-8f0a-a930e2bf03a9.png)
-  ![VisualStudioCode](https://user-images.githubusercontent.com/65850970/129522168-8e66544d-9dd1-47d7-bb7d-365be2c955ee.png) <br>
-  ![AccessDatabase](https://user-images.githubusercontent.com/65850970/129523449-b4cdf3c6-80f3-4de6-bdd0-85e4b61290ea.png)
-  ![MSSQL](https://user-images.githubusercontent.com/65850970/129523451-778da529-be55-44c4-bfab-9ef846753275.png)
-  ![MySQL](https://user-images.githubusercontent.com/65850970/129523452-5dd3e5aa-e246-4fcb-ae1e-6337bb6764d5.png)
+  <img src="https://shields.io/badge/Programming Language-C Sharp-pink?&logo=csharp&style=plastic">  
+  <img src="https://shields.io/badge/Programming Language-C-pink?logo=c&style=plastic">  
+  <img src="https://shields.io/badge/Programming Language-Python-pink?logo=python&style=plastic"> <br>
+  
+  <img src="https://shields.io/badge/IDE-Visual Studio-pink?logo=visualstudio&style=plastic">  
+  <img src="https://shields.io/badge/IDE-Visual Studio Code-pink?logo=visualstudiocode&style=plastic"> <br>
+
+  <img src="https://shields.io/badge/Database-Microsoft Access-pink?logo=microsoftaccess&style=plastic">
+  <img src="https://shields.io/badge/Database-MSSQL-pink?logo=microsoftsqlserver&style=plastic"> 
+  <img src="https://shields.io/badge/Database-MySQL-pink?logo=mysql&style=plastic"> 
   
 </div> <br>
   
