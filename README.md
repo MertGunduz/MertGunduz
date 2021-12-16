@@ -77,3 +77,8 @@
   ![Seperator](https://user-images.githubusercontent.com/65850970/131208968-ed91a94e-cf58-40fa-9119-a8394661fccb.gif)
 
 </div>
+
+
+<div align="center">
+  <a href="mailto:mertgunduz@metauniversalis.com">Contact: mertgunduz@metauniversalis.com</a>
+</div>
