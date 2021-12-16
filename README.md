@@ -80,5 +80,5 @@
 
 
 <div align="center">
-  <a href="mailto:mertgunduz@metauniversalis.com">Contact: mertgunduz@metauniversalis.com</a>
+  <a href="mailto:mertgunduz@metauniversalis.com">mertgunduz@metauniversalis.com</a>
 </div>
