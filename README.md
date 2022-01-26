@@ -1,18 +1,18 @@
 <div align="center">
   
-  ![Welcome_To_My_Profile](https://user-images.githubusercontent.com/65850970/131208969-56ae7755-ffda-4fad-be04-89877636e7ec.gif)
+  ![WelcomeToMyProfile](https://user-images.githubusercontent.com/65850970/132017764-26c05bb2-afcf-46fb-8825-be6494713646.gif)
 
 </div> <br>
 
 <div align="center">
 
-  ![Seperator](https://user-images.githubusercontent.com/65850970/131208968-ed91a94e-cf58-40fa-9119-a8394661fccb.gif)
+  ![Seperator](https://user-images.githubusercontent.com/65850970/132017763-55229fd9-78ec-41fe-85c3-1f9f2cd8f5a2.gif)
   
 </div> <br>
 
 <div align="center">
 
-  ![My_Projects](https://user-images.githubusercontent.com/65850970/131208967-369c29cb-59ee-49dc-8555-599ca770ead0.gif)
+  ![MyProjects](https://user-images.githubusercontent.com/65850970/132017761-a4a43cc0-003b-4ae0-a008-c22b3a8f15e2.gif)
 
 </div> <br>
 
@@ -27,13 +27,13 @@
 
 <div align="center">
 
-  ![Seperator](https://user-images.githubusercontent.com/65850970/131208968-ed91a94e-cf58-40fa-9119-a8394661fccb.gif)
+  ![Seperator](https://user-images.githubusercontent.com/65850970/132017763-55229fd9-78ec-41fe-85c3-1f9f2cd8f5a2.gif)
 
 </div> <br> 
   
 <div align="center">
 
-  ![Certificates](https://user-images.githubusercontent.com/65850970/131208964-c42d8e1f-ad2a-4cc1-b032-cf9ae8fbb8a0.gif)
+  ![Certificates](https://user-images.githubusercontent.com/65850970/132017756-98bafe90-b03c-4a2f-9330-9c13ff5de270.gif)
 
 </div> <br>
 
@@ -46,14 +46,14 @@
   
 <div align="center">
 
-  ![Seperator](https://user-images.githubusercontent.com/65850970/131208968-ed91a94e-cf58-40fa-9119-a8394661fccb.gif)
+  ![Seperator](https://user-images.githubusercontent.com/65850970/132017763-55229fd9-78ec-41fe-85c3-1f9f2cd8f5a2.gif)
 
 </div> <br>
   
   
 <div align="center">
 
-  ![Languages_And_Tools](https://user-images.githubusercontent.com/65850970/131208966-195e1270-6673-4d7c-92b5-c00ad990dae6.gif)
+  ![LanguagesAndTools](https://user-images.githubusercontent.com/65850970/132017758-048c5627-6717-4060-a74a-27896ee28c77.gif)
 
 </div> <br>
   
@@ -74,11 +74,6 @@
   
 <div align="center">
 
-  ![Seperator](https://user-images.githubusercontent.com/65850970/131208968-ed91a94e-cf58-40fa-9119-a8394661fccb.gif)
+  ![Seperator](https://user-images.githubusercontent.com/65850970/132017763-55229fd9-78ec-41fe-85c3-1f9f2cd8f5a2.gif)
 
-</div>
-
-
-<div align="center">
-  <a href="mailto:mertgunduz@metauniversalis.com">mertgunduz@metauniversalis.com</a>
 </div>
