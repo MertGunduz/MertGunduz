@@ -80,4 +80,5 @@
 
 <div align="center">
   <a href="mailto:mertgunduz@metauniversalis.com">mertgunduz@metauniversalis.com</a>
+  <p>Will be a CCNP Security VPN this year</p>
 </div>
