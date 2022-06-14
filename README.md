@@ -1,84 +1,88 @@
-<div align="center">
-  
-  ![WelcomeToMyProfile](https://user-images.githubusercontent.com/65850970/132017764-26c05bb2-afcf-46fb-8825-be6494713646.gif)
+<p align="center">
 
-</div> <br>
+  <img style="border-radius:10px" src="https://user-images.githubusercontent.com/65850970/173567075-7e82527d-7eb1-43b6-80f7-51d319ec6bab.png">
+</p>
 
-<div align="center">
+<br>
 
-  ![Seperator](https://user-images.githubusercontent.com/65850970/132017763-55229fd9-78ec-41fe-85c3-1f9f2cd8f5a2.gif)
-  
-</div> <br>
+![Seperator](https://user-images.githubusercontent.com/65850970/173540909-5c8eafac-b64f-4831-8e96-f40bed9aa28f.png)
 
-<div align="center">
+<br>
 
-  ![MyProjects](https://user-images.githubusercontent.com/65850970/132017761-a4a43cc0-003b-4ae0-a008-c22b3a8f15e2.gif)
-
-</div> <br>
-
-<div align="center">
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MertGunduz&repo=Alchemist&theme=jolly)](https://github.com/MertGunduz/Alchemist)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MertGunduz&repo=VoterX&theme=jolly)](https://github.com/MertGunduz/VoterX)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MertGunduz&repo=Cops_And_Robbers&theme=jolly)](https://github.com/MertGunduz/Cops_And_Robbers)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MertGunduz&repo=IP_Analyzer&theme=jolly)](https://github.com/MertGunduz/IP_Analyzer)
-
-</div> <br>
+![MyGithubStatsHeader](https://user-images.githubusercontent.com/65850970/173562742-87a19937-b000-4291-a2d7-0abbd00fedf5.png)
 
 <div align="center">
 
-  ![Seperator](https://user-images.githubusercontent.com/65850970/132017763-55229fd9-78ec-41fe-85c3-1f9f2cd8f5a2.gif)
-
-</div> <br> 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MertGunduz?cardType=github&showIcons=false&Text=00FF00&Border=00FF00&Background=1e1f21&Title=00FF00&Ring=00FF00)](https://git.io/awesome-stats-card)
   
-<div align="center">
-
-  ![Certificates](https://user-images.githubusercontent.com/65850970/132017756-98bafe90-b03c-4a2f-9330-9c13ff5de270.gif)
-
-</div> <br>
-
-<div align="center">
-  
-  <img src="https://shields.io/badge/Certificate-CCNA-pink?logo=cisco&style=plastic">  
-  <img src="https://shields.io/badge/Certificate-CS50-pink?logo=googlenearby&style=plastic">  
-
-</div> <br>
-  
-<div align="center">
-
-  ![Seperator](https://user-images.githubusercontent.com/65850970/132017763-55229fd9-78ec-41fe-85c3-1f9f2cd8f5a2.gif)
-
-</div> <br>
-  
-  
-<div align="center">
-
-  ![LanguagesAndTools](https://user-images.githubusercontent.com/65850970/132017758-048c5627-6717-4060-a74a-27896ee28c77.gif)
-
-</div> <br>
-  
-<div align="center">
-
-  <img src="https://shields.io/badge/Programming Language-C Sharp-pink?&logo=csharp&style=plastic">  
-  <img src="https://shields.io/badge/Programming Language-C-pink?logo=c&style=plastic">  
-  <img src="https://shields.io/badge/Programming Language-Python-pink?logo=python&style=plastic"> <br>
-  
-  <img src="https://shields.io/badge/IDE-Visual Studio-pink?logo=visualstudio&style=plastic">  
-  <img src="https://shields.io/badge/IDE-Visual Studio Code-pink?logo=visualstudiocode&style=plastic"> <br>
-
-  <img src="https://shields.io/badge/Database-Microsoft Access-pink?logo=microsoftaccess&style=plastic">
-  <img src="https://shields.io/badge/Database-MSSQL-pink?logo=microsoftsqlserver&style=plastic"> 
-  <img src="https://shields.io/badge/Database-MySQL-pink?logo=mysql&style=plastic"> 
-  
-</div> <br>
-  
-<div align="center">
-
-  ![Seperator](https://user-images.githubusercontent.com/65850970/132017763-55229fd9-78ec-41fe-85c3-1f9f2cd8f5a2.gif)
-
 </div>
 
+<br>
+
+![Seperator](https://user-images.githubusercontent.com/65850970/173540909-5c8eafac-b64f-4831-8e96-f40bed9aa28f.png)
+
+<br>
+
+![OpenSourceProjectsHeader](https://user-images.githubusercontent.com/65850970/173562525-455b909e-847c-4fc2-993c-ca0e9fce5f68.png)
+
 <div align="center">
-  <a href="mailto:mertgunduz@metauniversalis.com">mertgunduz@metauniversalis.com</a>
-  <p>Will be a CCNP Security VPN this year</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertgunduz&repo=voterx&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&bg_color=1e1f21&locale=en"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nomadbsd&repo=nomadbsd&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&bg_color=1e1f21&locale=en"/>
+</a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nomadbsd&repo=website&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&bg_color=1e1f21&locale=en"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertgunduz&repo=voidcrypt&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&bg_color=1e1f21&locale=en"/>
+</a>
 </div>
+
+<br>
+
+![Seperator](https://user-images.githubusercontent.com/65850970/173540909-5c8eafac-b64f-4831-8e96-f40bed9aa28f.png)
+
+<br>
+
+![MyCertificatesHeader](https://user-images.githubusercontent.com/65850970/173562934-63239c45-c5df-4bc2-967a-63347de59dc4.png)
+
+<div align="center">
+ <img src="https://img.shields.io/badge/Certificate-CCNA-00ff00?style=for-the-badge">
+ <img src="https://img.shields.io/badge/Certificate-CS50 Harvard University-00ff00?style=for-the-badge"> 
+</div> 
+  
+<br>
+
+![Seperator](https://user-images.githubusercontent.com/65850970/173563011-aa9cdcca-1e83-4ffa-afe5-73a474d0f00c.png)
+
+<br>
+
+![LanguagesAndToolsHeader](https://user-images.githubusercontent.com/65850970/173563246-93fc96e4-1c3b-47ed-b1dc-ca933df9449b.png)
+  
+<div align="center">
+  <img src="https://img.shields.io/badge/Programming%20Language-C-00ff00?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Programming%20Language-C++-00ff00?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Programming%20Language-Python-00ff00?style=for-the-badge"> <br>
+  
+  <img src="https://img.shields.io/badge/IDE-Code::Blocks-00ff00?style=for-the-badge">
+  <img src="https://img.shields.io/badge/IDE-Visual Studio Code-00ff00?style=for-the-badge">
+  <img src="https://img.shields.io/badge/IDE-CLion-00ff00?style=for-the-badge"> <br>
+</div> 
+
+<br>
+
+![Seperator](https://user-images.githubusercontent.com/65850970/173563281-94ff111f-4e17-449b-ac96-1f07817bb9bd.png)
+
+<br> 
+
+![MyGithubTrophiesHeader](https://user-images.githubusercontent.com/65850970/173563517-5daf0952-c803-4044-a51d-3ecb1a43abbc.png)
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=-1&title=Stars,Followers,Repositories,Commits,PullRequest,MultiLanguage">
+</div>
+
+<br>
+
+![Seperator](https://user-images.githubusercontent.com/65850970/173563560-ffd81d40-a702-4025-8d86-3a941beb0489.png)
