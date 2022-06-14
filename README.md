@@ -26,16 +26,16 @@
 ![OpenSourceProjectsHeader](https://user-images.githubusercontent.com/65850970/173562525-455b909e-847c-4fc2-993c-ca0e9fce5f68.png)
 
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/MertGunduz/VoterX">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertgunduz&repo=voterx&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&bg_color=1e1f21&locale=en"/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/nomadbsd/NomadBSD">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nomadbsd&repo=nomadbsd&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&bg_color=1e1f21&locale=en"/>
 </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/nomadbsd/website">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nomadbsd&repo=website&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&bg_color=1e1f21&locale=en"/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/MertGunduz/Voidcrypt">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertgunduz&repo=voidcrypt&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&bg_color=1e1f21&locale=en"/>
 </a>
 </div>
