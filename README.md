@@ -80,7 +80,9 @@
 ![MyGithubTrophiesHeader](https://user-images.githubusercontent.com/65850970/173563517-5daf0952-c803-4044-a51d-3ecb1a43abbc.png)
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=-1&title=Stars,Followers,Repositories,Commits,PullRequest,MultiLanguage">
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=-1&title=Stars,Followers,Repositories,Commits,PullRequest,MultiLanguage)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 <br>
