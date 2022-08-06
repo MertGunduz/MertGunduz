@@ -68,7 +68,6 @@
   
   <img src="https://img.shields.io/badge/IDE-Code::Blocks-00ff00?style=for-the-badge">
   <img src="https://img.shields.io/badge/IDE-Visual Studio Code-00ff00?style=for-the-badge">
-  <img src="https://img.shields.io/badge/IDE-CLion-00ff00?style=for-the-badge"> <br>
 </div> 
 
 <br>
