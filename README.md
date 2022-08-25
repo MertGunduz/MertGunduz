@@ -50,6 +50,7 @@
 
 <div align="center">
  <img src="https://img.shields.io/badge/Certificate-CCNA-00ff00?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Certificate-CompTIA A+-00ff00?style=for-the-badge">
  <img src="https://img.shields.io/badge/Certificate-CS50 Harvard University-00ff00?style=for-the-badge"> 
 </div> 
   
