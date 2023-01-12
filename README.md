@@ -9,43 +9,6 @@
 
 <br>
 
-![MyGithubStatsHeader](https://user-images.githubusercontent.com/65850970/173562742-87a19937-b000-4291-a2d7-0abbd00fedf5.png)
-
-<div align="center">
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MertGunduz?cardType=github&showIcons=false&Text=00FF00&Border=00FF00&Background=1e1f21&Title=00FF00&Ring=00FF00)](https://git.io/awesome-stats-card)
-  
-</div>
-
-<br>
-
-![Seperator](https://user-images.githubusercontent.com/65850970/173540909-5c8eafac-b64f-4831-8e96-f40bed9aa28f.png)
-
-<br>
-
-![OpenSourceProjectsHeader](https://user-images.githubusercontent.com/65850970/173562525-455b909e-847c-4fc2-993c-ca0e9fce5f68.png)
-
-<div align="center">
-<a href="https://github.com/MertGunduz/VoterX">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertgunduz&repo=voterx&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&bg_color=1e1f21&locale=en"/>
-</a>
-<a href="https://github.com/nomadbsd/NomadBSD">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nomadbsd&repo=nomadbsd&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&bg_color=1e1f21&locale=en"/>
-</a>
-  <a href="https://github.com/nomadbsd/website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nomadbsd&repo=website&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&bg_color=1e1f21&locale=en"/>
-</a>
-<a href="https://github.com/MertGunduz/Voidcrypt">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mertgunduz&repo=voidcrypt&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&bg_color=1e1f21&locale=en"/>
-</a>
-</div>
-
-<br>
-
-![Seperator](https://user-images.githubusercontent.com/65850970/173540909-5c8eafac-b64f-4831-8e96-f40bed9aa28f.png)
-
-<br>
-
 ![MyCertificatesHeader](https://user-images.githubusercontent.com/65850970/173562934-63239c45-c5df-4bc2-967a-63347de59dc4.png)
 
 <div align="center">
