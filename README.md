@@ -11,7 +11,6 @@
 ![MyCertificatesHeader](https://user-images.githubusercontent.com/65850970/173562934-63239c45-c5df-4bc2-967a-63347de59dc4.png)
 
 <div align="center">
- <img src="https://img.shields.io/badge/Certificate-CCNA-00ff00?style=for-the-badge">
   <img src="https://img.shields.io/badge/Certificate-CompTIA A+-00ff00?style=for-the-badge">
  <img src="https://img.shields.io/badge/Certificate-CS50 Harvard University-00ff00?style=for-the-badge"> 
 </div> 
