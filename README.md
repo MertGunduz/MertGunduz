@@ -11,8 +11,8 @@
 ![MyCertificatesHeader](https://user-images.githubusercontent.com/65850970/173562934-63239c45-c5df-4bc2-967a-63347de59dc4.png)
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Certificate-CompTIA A+-00ff00?style=for-the-badge">
- <img src="https://img.shields.io/badge/Certificate-CS50 Harvard University-00ff00?style=for-the-badge"> 
+  <img src="https://img.shields.io/badge/Certificate-Linux%20Turkcell-20C20E?style=for-the-badge">
+ <img src="https://img.shields.io/badge/Certificate-CS50%20Harvard%20University-20C20E?style=for-the-badge"> 
 </div> 
   
 <br>
@@ -24,12 +24,22 @@
 ![LanguagesAndToolsHeader](https://user-images.githubusercontent.com/65850970/173563246-93fc96e4-1c3b-47ed-b1dc-ca933df9449b.png)
   
 <div align="center">
-  <img src="https://img.shields.io/badge/Programming%20Language-C-00ff00?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Programming%20Language-C++-00ff00?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Programming%20Language-Python-00ff00?style=for-the-badge"> <br>
-  
-  <img src="https://img.shields.io/badge/IDE-Code::Blocks-00ff00?style=for-the-badge">
-  <img src="https://img.shields.io/badge/IDE-Visual Studio Code-00ff00?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Programming%20Language-C-20C20E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Programming%20Language-C++-20C20E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Programming%20Language-Bash-20C20E?style=for-the-badge">
+
+  <img src="https://img.shields.io/badge/BUILD%20TOOL-CMAKE-20C20E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/BUILD%20TOOL-GNU%20MAKE-20C20E?style=for-the-badge">
+
+  <img src="https://img.shields.io/badge/Document%20generator-doxygen-20C20E?style=for-the-badge">
+
+  <img src="https://img.shields.io/badge/LIBRARY-NCURSES-20C20E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LIBRARY-CURL-20C20E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LIBRARY-MJSON-20C20E?style=for-the-badge">
+
+  <img src="https://img.shields.io/badge/OPERATING%20SYSTEM-UBUNTU%2022.04-20C20E?style=for-the-badge">
+
+  <img src="https://img.shields.io/badge/IDE-VSCODE-20C20E?style=for-the-badge">
 </div> 
 
 <br>
