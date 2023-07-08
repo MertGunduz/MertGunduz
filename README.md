@@ -55,7 +55,3 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=-1&title=Stars,Followers,Repositories,Commits,PullRequest,MultiLanguage)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
-
-<br>
-
-![Seperator](https://user-images.githubusercontent.com/65850970/173563560-ffd81d40-a702-4025-8d86-3a941beb0489.png)
