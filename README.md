@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/LIBRARY-CURL-20C20E?style=for-the-badge">
   <img src="https://img.shields.io/badge/LIBRARY-MJSON-20C20E?style=for-the-badge">
 
-  <img src="https://img.shields.io/badge/OPERATING%20SYSTEM-UBUNTU%2022.04-20C20E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/OPERATING%20SYSTEM-UBUNTU-20C20E?style=for-the-badge">
 
   <img src="https://img.shields.io/badge/IDE-VSCODE-20C20E?style=for-the-badge">
 </div> 
